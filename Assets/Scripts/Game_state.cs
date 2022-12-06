@@ -1,0 +1,50 @@
+ using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Game_state : MonoBehaviour
+{
+    public static int id;
+    public static string name;
+    public static int Qcategory1;
+    public static int Qcategory2;
+    public static int Qcategory3;
+    public static int Qcategory4;
+    public static int Qcategory5;
+    public static int Qcategory6;
+    public static int Qcategory7;
+    public static int Qcategory8;
+    public static int Qcategory9;
+    public static int Qcategory10;
+    public static int Qcategory11;
+    public static int Qcategory12;
+    public static int Qcategory13;
+    public static int Qcategory14;
+    public static int Qcategory15;
+    public static int Qcategory16;
+    public static int Qcategory17;
+    public static int Acategory1;
+    public static int Acategory2;
+    public static int Acategory3;
+    public static int Acategory4;
+    public static int Acategory5;
+    public static int Acategory6;
+    public static int Acategory7;
+    public static int Acategory8;
+    public static int Acategory9;
+    public static int Acategory10;
+    public static int Acategory11;
+    public static int Acategory12;
+    public static int Acategory13;
+    public static int Acategory14;
+    public static int Acategory15;
+    public static int Acategory16;
+    public static int Acategory17;
+    public static int EasyScore;
+    public static int MediumScore;
+    public static int HardScore;
+    public static int guava;
+    public static int watermelon;
+    public static int orange;
+    public static int apple;
+}
